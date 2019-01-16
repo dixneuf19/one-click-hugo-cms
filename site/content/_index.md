@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: AJEEA
+subtitle: Association de Jeunesse pour l’Épanouissement des Enfants et Adolescents, Ouagadougou - Burkina Faso
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
