@@ -2,12 +2,34 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
-{{ partial "4-up" .Params.intro }}
+{{ with .Params.presentation }}
+<div class="bg-off-white pt4">
+	<div class="ph3 mw7 center">
+		<h2 class="f2 b lh-title mb2">{{.heading}}</h2>
+    {{ range .paragraphs }}
+    <p>{{ .text }}</p>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
 
+{{ partial "4-up" .Params.objectifs }}
+
+{{ with .Params.valeurs}}
+<div class="bg-off-white pb4">
+    <div class="ph3 mw7 center">
+    <h2 class="f2 b lh-title mb2">{{.heading}}</h2>
+    <ul>
+        {{ range .points }}
+        <li>{{ .text }}</li>
+        {{ end }}
+    </ul>
+</div>
+{{ end }}
 
 {{ with .Params.main }}
 <div class="mw7 center">
-  <div class="mw6 ph3 mb3">
+  <div class="mw6 ph3 pt4 mb3">
     <h3 class="f3 b lh-title mb2">{{ .heading }}</h3>
     <p>{{ .description }}</p>
   </div>
@@ -17,15 +39,15 @@
 {{ partial "image-grid" . }}
 {{ end }}
 
-<div class="pb4">
+<!-- <div class="pb4">
   {{ range .Params.testimonials }}
     {{ partial "blockquote" . }}
   {{ end }}
-</div>
+</div> -->
 
 <!-- Full-width image -->
-<img src="{{ .Params.full_image }}" alt="" class="db w-100">
+<!-- <img src="{{ .Params.full_image }}" alt="" class="db w-100"> -->
 
-{{ partial "table" .Params.pricing }}
+<!-- {{ partial "table" .Params.pricing }} -->
 
 {{ end }}
