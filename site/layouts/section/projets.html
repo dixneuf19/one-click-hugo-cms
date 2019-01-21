@@ -15,9 +15,8 @@
 </div>
 
 <div class="mw7 center ph3">
-  {{ range .Params.aider }}
-    {{ partial "paragraph" . }}
-  {{ end }}
+    <h3 class="f3 b lh-title mb1">{{.Params.heading}}</h3>
+    <div class="cms">{{.Content}}</div>
 </div>
 
 
