@@ -18,7 +18,7 @@ const MediaBlock = ({ heading, text, imageUrl, reverse }) => {
   </div>;
 };
 
-export default class ValuesPreview extends React.Component {
+export default class ProjetsPreview extends React.Component {
   render() {
     const { entry, getAsset, widgetFor } = this.props;
 
@@ -33,7 +33,7 @@ export default class ValuesPreview extends React.Component {
     const values = entryValues ? entryValues.toJS() : [];
 
     return <div>
-      <Jumbotron image={image} title={entry.getIn(["data", "title"])} />
+      <Jumbotron image={image} title={entry.getIn(["data", "title"])} subtitle={entry.getIn(["data", "subtitle"])} />
       <div className="bg-off-white pv4">
         <div className="mw7 center ph3 pt4">
           {values.map(({ text, heading, imageUrl }, i) =>
@@ -41,7 +41,7 @@ export default class ValuesPreview extends React.Component {
           )}
         </div>
         <div class="mw7 center ph3">
-          <h3 class="f3 b lh-title mb1">{ heading }</h3>
+          <h3 class="f3 b lh-title mb1">{ entry.getIn(["data", "heading"]) }</h3>
           <div class="cms">{widgetFor("body")}</div>
         </div>
       </div>
