@@ -5,7 +5,9 @@
 
 		<img src="{{ .Params.logo }}" alt="" class="db w4 center pv4">
 
-		<p class="dib pb3">{{ .Params.text }}</p>
+		<div>
+			{{ .Content}}
+		</div>
 
 		<div class="flex-ns mb3">
 	        	{{ range .Params.contact_entries }}
