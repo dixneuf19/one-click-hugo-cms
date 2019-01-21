@@ -77,11 +77,11 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Subtitle, name: subtitle, widget: string}
           - {label: Image, name: image, widget: image}
           - label: Presentation
-            name: Presentation
+            name: presentation
             widget: object
             fields: 
               - {label: Heading, name: heading, widget: string}
-              - {label: Paragraphe, name: paragraphes, widget: list, fields: [{label: Texte, name: text, widget: string}]}
+              - {label: Paragraphe, name: paragraphs, widget: list, fields: [{label: Texte, name: text, widget: string}]}
           - label: Objectifs
             name: objectifs 
             widget: object
