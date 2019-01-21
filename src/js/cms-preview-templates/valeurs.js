@@ -3,7 +3,7 @@ import format from "date-fns/format";
 
 import Jumbotron from "./components/jumbotron";
 
-export default class PostPreview extends React.Component {
+export default class ValeursPreview extends React.Component {
   render() {
     const {entry, getAsset} = this.props;
     let image = getAsset(entry.getIn(["data", "image"]));
@@ -14,12 +14,12 @@ export default class PostPreview extends React.Component {
     }
 
     return <div>
-      <Jumbotron image={image} title={entry.getIn(["data", "title"])} />
+      <Jumbotron image={image} title={entry.getIn(["data", "title"])} subtitle={entry.getIn(["data", "subtitle"])} />
 
       <div className="bg-off-white pv4">
         <div className="ph3 mw7 center">
-          <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "intro", "heading"])}</h2>
-          <p className="mb4 mw6">{entry.getIn(["data", "intro", "description"])}</p>
+          <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "presentation", "heading"])}</h2>
+          {(entry.getIn(["data", "presentation", "paragraphs"]) || []).map((prez, index) => <p className="mb4 mw6">{<p>{prez.text}</p>)}
 
           <div className="flex-ns flex-wrap mhn2-ns mb3">
             {(entry.getIn(["data", "intro", "blurbs"]) || []).map((blurb, index) => <div className="ph2-ns w-50-ns mb4" key={index}>

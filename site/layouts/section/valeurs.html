@@ -10,44 +10,29 @@
     <p>{{ .text }}</p>
     {{ end }}
   </div>
-</div>
+
 {{ end }}
 
 {{ partial "4-up" .Params.objectifs }}
 
-{{ with .Params.valeurs}}
-<div class="bg-off-white pb4">
-    <div class="ph3 mw7 center">
-    <h2 class="f2 b lh-title mb2">{{.heading}}</h2>
-    <ul>
-        {{ range .points }}
-        <li>{{ .text }}</li>
-        {{ end }}
-    </ul>
+<div class="pb4">
+    {{ range .Params.testimonials }}
+      {{ partial "blockquote" . }}
+    {{ end }}
 </div>
-{{ end }}
 
-{{ with .Params.main }}
-<div class="mw7 center">
-  <div class="mw6 ph3 pt4 mb3">
-    <h3 class="f3 b lh-title mb2">{{ .heading }}</h3>
-    <p>{{ .description }}</p>
-  </div>
+<div class="ph3 mw7 center cms">
+{{ .Content }}
 </div>
 
 <!-- Image grid -->
-{{ partial "image-grid" . }}
-{{ end }}
+{{ partial "image-grid" (dict "image1" .Params.image1 "image2" .Params.image2 "image3" .Params.image3) }}
 
-<div class="pb4">
-  {{ range .Params.testimonials }}
-    {{ partial "blockquote" . }}
-  {{ end }}
-</div>
 
 <!-- Full-width image -->
 <!-- <img src="{{ .Params.full_image }}" alt="" class="db w-100"> -->
 
 <!-- {{ partial "table" .Params.pricing }} -->
+</div>
 
 {{ end }}
