@@ -26,11 +26,13 @@ projets:
       Un partenariat dans ce sens donnera le sourire aux
       enfants défavorisés.
     imageUrl: "/img/about-single-origin.jpg"
-aider:
-  - heading: "Partenariat"
-    text: >
-      Aide financière pour l'AJEEA. Mollit culpa mollit fugiat labore consequat enim.
-  - heading: Volontariat
-    text: >
-      Venir apporter sa contribution au Burkina Faso, comme Livia ou LNA. Commodo et aliqua aute excepteur. Aute occaecat ipsum elit pariatur.
+heading: "Comment nous aider"
 ---
+### Partenariat
+
+Aide financière pour l'AJEEA. Mollit culpa mollit fugiat labore consequat enim.
+
+### Volontariat
+
+Venir apporter sa contribution au Burkina Faso, comme Livia ou LNA. Commodo et aliqua aute excepteur. Aute occaecat ipsum elit pariatur.
+
