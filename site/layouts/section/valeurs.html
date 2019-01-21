@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Params.title "subtitle" .Params.subtitle) }}
 
 {{ with .Params.presentation }}
 <div class="bg-off-white pt4">
@@ -39,11 +39,11 @@
 {{ partial "image-grid" . }}
 {{ end }}
 
-<!-- <div class="pb4">
+<div class="pb4">
   {{ range .Params.testimonials }}
     {{ partial "blockquote" . }}
   {{ end }}
-</div> -->
+</div>
 
 <!-- Full-width image -->
 <!-- <img src="{{ .Params.full_image }}" alt="" class="db w-100"> -->
