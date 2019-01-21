@@ -19,7 +19,7 @@ export default class ValeursPreview extends React.Component {
       <div className="bg-off-white pv4">
         <div className="ph3 mw7 center">
           <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "presentation", "heading"])}</h2>
-          {(entry.getIn(["data", "presentation", "paragraphs"]) || []).map((par, index) => <p key={index} className="mb4 mw6">{par}</p>)}
+          {(entry.getIn(["data", "presentation", "paragraphs"]) || []).map((par, index) => <p key={index} className="mb4 mw6">{par.get("text")}</p>)}
 
           <h2 class="f2 b lh-title mb2">{entry.getIn(["data", "objectifs", "heading"])}</h2>
           <p class="mb4 mw6">{entry.getIn(["data", "objectifs", "description"])}</p>
@@ -43,8 +43,7 @@ export default class ValeursPreview extends React.Component {
 
       <div className="mw7 center ph3 pv4">
 
-        <div class="cms">{widgetFor("body")}</div>
-
+      <div class="cms">{widgetFor("body")}</div>
 
         <div className="flex flex-wrap mhn1">
           <div className="w-100 w-50-ns ph1-ns">
