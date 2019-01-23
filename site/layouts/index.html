@@ -12,6 +12,13 @@
 
 {{ end }}
 
+{{ if .Params.full_image }}
+<div class="mw7 center ph3 pv4">
+    <div class="w-100 ph1-ns">
+        <img src="{{ .Params.full_image }}" alt="main page img">
+    </div>
+</div>
+{{ end }}
 
 {{ partial "blog" . }}
 

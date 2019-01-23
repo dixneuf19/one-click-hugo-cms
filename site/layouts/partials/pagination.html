@@ -2,14 +2,14 @@
  
 <nav class="cf pa3">
     {{ if .Paginator.HasNext }}
-    <a class="fl dib link dim black f6 f5-ns b pa2" title="Page suivante" href="{{ .Paginator.Next.URL }}">
-        &larr; Previous
+    <a class="fl dib link dim black f6 f5-ns b pa2" title="Page précédente" href="{{ .Paginator.Next.URL }}">
+        &larr; Précédent
     </a>
     {{ end }}
     <div class="pagination">
         {{ if .Paginator.HasPrev }}
-        <a class="fl dib link dim black f6 f5-ns b pa2" title="Page précédente" href="{{ .Paginator.Prev.URL }}">
-            Next &rarr;
+        <a class="fl dib link dim black f6 f5-ns b pa2" title="Page suivante" href="{{ .Paginator.Prev.URL }}">
+            Suivant &rarr;
         </a>
         {{ end }}
     </div>
