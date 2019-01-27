@@ -9,8 +9,6 @@ contact_entries:
       Arrondissement 7
       Ouagadougou
       BURKINA FASO
-  - heading: Horaires
-    text: 'Lundi - Vendredi : 7h-12h'
   - heading: Coordonnées
     text: |-
       Email : ajeea.enfants@gmail.com
