@@ -1,54 +1,34 @@
 ---
 title: L'association
-subtitle: Quels sont les objectifs de l'AJEEA ?
+subtitle: Comment fonctionne l'AJEEA
 image: /img/products-jumbotron.jpg
 presentation:
   heading: Présentation de l'AJEEA
   paragraphs:
     - text: >-
-        L'Association de Jeunesse pour l’Épanouissement des Enfants et
-        Adolescents (AJEEA) est une association basée à Ouagadougou.
-    - text: >-
-        Ullamco esse ea cupidatat anim minim nulla aliqua duis non tempor
-        reprehenderit sint nulla sint. Dolor ex sit labore sint anim incididunt
-        tempor quis nulla. Ad sint ipsum adipisicing adipisicing mollit occaecat
-        id Lorem Lorem officia laborum consequat amet. Cillum occaecat et quis
-        eiusmod enim amet pariatur cupidatat occaecat ex. Ipsum deserunt cillum
-        irure in officia non exercitation voluptate proident aliqua nisi in.
-    - text: >-
-        Dolor incididunt aliqua reprehenderit do esse. Do nulla enim
-        exercitation non occaecat. Commodo id exercitation cupidatat irure
-        deserunt commodo elit ut elit aliquip incididunt exercitation occaecat.
-        Nostrud ea exercitation velit do anim labore consequat eiusmod elit
-        labore ullamco Lorem fugiat. Commodo quis sint quis ullamco id commodo
-        magna et ipsum qui ullamco nulla sint deserunt. Do sit aliquip proident
-        deserunt magna consectetur nisi mollit cupidatat adipisicing aute
-        aliquip eu.
-    - text: >-
-        Id aliquip anim esse non adipisicing non ad ipsum dolor. Minim nulla qui
-        ullamco ea labore id adipisicing magna qui incididunt Lorem aute tempor
-        consequat. Pariatur laboris magna do Lorem est irure ex irure enim
-        exercitation deserunt minim magna nisi.
+        L'AJEEA est une association d'entraide communautaire à but non-lucratif,
+        tournée vers l'éducation et l'épanouissement des enfants et adolescents
+        en situation difficile. Fondée en 2013 par Norbert ABEM, elle a reçu le
+        soutien du Ministère de l'Education Nationale et de l'Alphabétisation.
+        Chaque jour, des actions variées sont réalisées afin de rendre le monde
+        meilleur pour les nouvelles générations.
 objectifs:
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: |
         Aider et protèger les enfants les adolescents défavorisés
     - image: /img/illustrations-coffee-gear.svg
-      text: |
-        Renforcer les capacités socio-économiques des femmens en difficulté
+      text: Renforcer les capacités socio-économiques des femmes en difficulté
     - image: /img/illustrations-tutorials.svg
-      text: |
-        Mobiliser les communautés pour un développement participatif et durable.
+      text: Mobiliser les communautés pour un développement participatif et durable
     - image: /img/illustrations-meeting-space.svg
-      text: >
-        Contribuer à l’amélioration de la santé des populations par l’ouverture
-        de centre de santé
-  description: >
-    Notre misson est de renforcer les capacités de la communauté pour se prendre
-    en charge et entreprendre des actions de protection et de promotion des
-    groupes vulnérables en particulier les enfants, les adolescents et les
-    femmes.
+      text: Contribuer à l’amélioration de la santé des populations
+  description: >-
+    L'AJEEA apporte soutien, éducation et protection aux enfants et adolescents
+    défavorisés. Elle représente donc pour eux un cadre sûr et épanouissant, un
+    espace de partage et d'échange et un accès facilité à la culture. Les
+    "tanties" et "tontons" (c'est ainsi que sont appelés les monitrices et
+    moniteurs) œuvrent pour leur bien-être et leur bon développement.
   heading: Nos objectifs
 image1:
   alt: A close-up of a paper filter filled with ground coffee
@@ -67,16 +47,10 @@ testimonials:
       Ensemble nous pouvons les aider à réaliser leur rêve, celui d’un monde
       meilleur.
 ---
-
 ### Nos valeurs
 
-Les actions de l'AJEEA sont dictées par la forte adhésion à des valeurs fondamentales de solidarité
-
-- La culture de l’entraide, de la solitarité et l’esprit d’appartenance communautaire.
-- La promotion des droits de l’enfant, de la femme, et des droits humains en général.
-- La promotion de l’équité, de la justice, la mixité sociale et de la paix pour tous.
-- Dénonciation de la lutte contre toute forme de stigmatisation et de discrimination.
+Les projets menés par l'AJEEA sont divers et variés, tant dans leur nature que dans le public touché. Les plus jeunes enfants sont accueillis tous les matins, du lundi au vendredi, dans le centre. Encadrés par deux tanties, ils apprennent les rudiment de la lecture, de l'écriture et des mathématiques. De nombreux jeux permettent de développer leur créativité, leur imagination, leurs facultés motrices et leur sens artistique. Pour les plus grands, l'AJEEA est aussi le lien entre différents parrains venant du monde entier, le gouvernement et un certains nombre d'écoles et de lycées ouagalais. Plusieurs fois par an, elle distribue ainsi fournitures scolaires ou denrées alimentaires aux jeunes écoliers et lycéens de la capitale. L'association est encore jeune et en plein développement : plusieurs nouveaux projets sont d'ores et déjà en cours de réflexion.
 
 ### Une équipe dévouée
 
-L'asso est menée par Norbert Abem
+Le Président et Fondateur de l'association est Norbert ABEM. L'association reçoit également le soutien du Ministère de l'Education Nationale et de l'Alphabétisation, notamment via Elisabeth SAWADOGO, Inspectrice et Cheffe de programme. L'AJEEA compte également sur le soutien de nombreux parrains tels que **\[A COMPLETER]** et bien sûr, sur les monitrices, qui chaque jour font grandir et sourire les enfants.
