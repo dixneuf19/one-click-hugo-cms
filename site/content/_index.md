@@ -33,17 +33,12 @@ projets:
 
 
       Les plus jeunes enfants sont accueillis tous les matins, du lundi au
-      vendredi, dans le centre. Encadrés par deux tanties, ils apprennent les
-      rudiment de la lecture, de l'écriture et des mathématiques. De nombreux
-      jeux permettent de développer leur créativité, leur imagination, leurs
-      facultés motrices et leur sens artistique.
+      vendredi, dans le centre.
 
 
       Pour les plus grands, l'AJEEA est aussi le lien entre différents parrains
       venant du monde entier, le gouvernement et un certains nombre d'écoles et
-      de lycées ouagalais. Plusieurs fois par an, elle distribue ainsi
-      fournitures scolaires ou denrées alimentaires aux jeunes écoliers et
-      lycéens de la capitale.
+      de lycées ouagalais.
 
 
       L'association est encore jeune et en plein développement : plusieurs
