@@ -54,6 +54,7 @@ projets:
       cadre culturel idéal pour le soutien scolaire, un amas de ressources
       pédagogiques pour l'élève et le professeur.
   - heading: Sensibilisation et prévention
+    imageUrl: /img/about-direct-sourcing.jpg
     text: >-
       Les jeunes et leurs parents manquent parfois d'informations concernant les
       problèmes de santé. L'AJEEA a donc l'ambition de combler cette lacune en
@@ -69,6 +70,26 @@ projets:
 
       D'autre part, il y aura aussi des sensibilisations autour de l'hygiène de
       vie et de la nutrition, et ce dès 3 ans !
+  - heading: Vers d'autres horizons
+    text: >-
+      L'AJEEA est basée à Bonheurville, en banlieue de Ouagadougou, depuis 2013.
+      Aujourd'hui, l'action de l'association se développe et mûrit, si bien
+      qu'est apparue l'ambition d'agir auprès d'un public toujours plus large.
+
+
+      Le bureau exécutif a ainsi décidé de s'étendre à la fois à Ouagadougou,
+      mais aussi dans le reste du Burkina Faso, notamment à Bobo-Dioulasso et
+      dans le Sahel pour rencontrer et accompagner plus d'enfants et
+      d'adolescents privés de ressources.
+
+
+      Le bureau exécutif est en train de concevoir un plan d'action pour mener à
+      bien cet objectif, avec un système de responsables locaux et un
+      coordinateur général.
+
+
+      A termes, l'association envisage également de s'ancrer à l'international
+      avec un système de correspondants dans d'autres régions du monde.
 ---
 ### Partenariat
 
