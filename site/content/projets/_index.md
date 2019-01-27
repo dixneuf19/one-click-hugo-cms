@@ -38,6 +38,7 @@ projets:
       de 50 kg de riz à destination des écoles, dont la distribution a été prise
       en charge par l'AJEEA.
   - heading: Une nouvelle bibliothèque
+    imageUrl: /img/products-jumbotron.jpg
     text: >-
       Projet de longue date, la création d'une bibliothèque à Bonheurville est
       un projet ambitieux et impactant, toujours en cours de développement.
@@ -71,6 +72,7 @@ projets:
       D'autre part, il y aura aussi des sensibilisations autour de l'hygiène de
       vie et de la nutrition, et ce dès 3 ans !
   - heading: Vers d'autres horizons
+    imageUrl: /img/blog-flavor_wheel.jpg
     text: >-
       L'AJEEA est basée à Bonheurville, en banlieue de Ouagadougou, depuis 2013.
       Aujourd'hui, l'action de l'association se développe et mûrit, si bien
@@ -91,11 +93,4 @@ projets:
       A termes, l'association envisage également de s'ancrer à l'international
       avec un système de correspondants dans d'autres régions du monde.
 ---
-### Partenariat
-
-Aide financière pour l'AJEEA. Mollit culpa mollit fugiat labore consequat enim.
-
-### Volontariat
-
-Venir apporter sa contribution au Burkina Faso, comme Livia ou LNA. Commodo et aliqua aute excepteur. Aute occaecat ipsum elit pariatur.
-
+### ICI FAUDRAIT METTRE LE BOUTON "COMMENT NOUS AIDER" DE LA PAGE D'ACCUEIL
