@@ -1,32 +1,74 @@
 ---
-title: "Nos projets"
+title: Nos projets
 subtitle: Comment nous aider à développer nos projets
 image: /img/about-jumbotron.jpg
 projets:
-  - heading: "Bibliothèque participative"
-    text: >
-      AJEEA construit actuellement une nouvelle bibliothèque
-      sera créer il y manque des livres pour la petite enfance et
-      surtout les romans africains très sollicités par les élèves
-      pour leurs exposés. In finé faire de ce lieu un
-      médiathèque est notre objectif. En plus avec ses 1892
-      abonnée sont une. Opportunité pour développer les droits
-      de l’enfant.
-      En plus cet environement lettré audéla de la lecture et de
-      l’animation sera un cadre pour le soutien scolaire des
-      enfants
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Parrainage scolaire"
-    text: >
-      AJEEA dont l’activité majeure est l’éducation aide
-      chaque année des enfants défavorisés à travers le
-      parrainage. Avec la crise ces parrainage on
-      drastiquement dimunué renant difficile la réalisation du
-      droit primaire d’aller à l’école, se soigner ou s’épanouir.
-      Un partenariat dans ce sens donnera le sourire aux
-      enfants défavorisés.
-    imageUrl: "/img/about-single-origin.jpg"
-heading: "Comment nous aider"
+  - heading: Accompagnement préscolaire
+    imageUrl: /img/about-shade-grown.jpg
+    text: >-
+      Tous les matins du lundi au vendredi, des enfants de Bonheurville sont
+      accueillis aux centre par deux monitrices. En petits groupes, ils vont
+      apprendre les rudiments de la lecture, de l'écriture et des mathématiques.
+      De nombreux jeux permettent de développer leur créativité, leur
+      imagination, leurs facultés motrices et leur sens artistique.
+
+
+      Âgés de 3 à 6 ans, les enfants disposent ainsi d'un cadre éducatif
+      permettant de préparer au mieux leur rentrée en CP1, où ils apprendront à
+      lire dans des classes de plus de 80 élèves. Cet accompagnement
+      préscolaire, bien plus accessible qu'une maternelle privée standard,
+      permet aux familles les plus modestes de donner à leurs enfants une réelle
+      chance de réussite scolaire.
+  - heading: Un partenaire du gouvernement
+    imageUrl: /img/about-single-origin.jpg
+    text: >-
+      L'AJEEA est une association reconnue et soutenue par le Ministère de
+      l'Education Nationale et de l'Alphabétisation (MENA) qui compte donc sur
+      elle pour assurer le lien sur le terrain si nécessaire.
+
+
+      En particulier, lorsque le gouvernement procède à des distributions de
+      ressources (matériel pédagogique ou denrées domestiques) auprès de
+      différentes écoles ou lycées de Ouagadougou, il arrive que l'AJEEA soit
+      sollicitée comme relais auprès de ces établissements.
+
+
+      Le début d'année 2019 a par exemple était honoré d'un don de l'ambassade
+      du Japon à Ouagadougou qui se présentait sous la forme de plusieurs sacs
+      de 50 kg de riz à destination des écoles, dont la distribution a été prise
+      en charge par l'AJEEA.
+  - heading: Une nouvelle bibliothèque
+    text: >-
+      Projet de longue date, la création d'une bibliothèque à Bonheurville est
+      un projet ambitieux et impactant, toujours en cours de développement.
+
+
+      L'objectif de l'AJEEA est de fournir un accès facilité à la culture en
+      mettant de nombreux livres à disposition des enfants du quartier. Lire,
+      c'est apprendre, découvrir, rêver et voyager. Ouvrir une bibliothèque,
+      c'est générer de nouvelles aspirations, donner des moyens culturels pour
+      atteindre de nouvelles ambitions.
+
+
+      A terme, cette bibliothèque deviendra un véritable lieu d'échange, un
+      cadre culturel idéal pour le soutien scolaire, un amas de ressources
+      pédagogiques pour l'élève et le professeur.
+  - heading: Sensibilisation et prévention
+    text: >-
+      Les jeunes et leurs parents manquent parfois d'informations concernant les
+      problèmes de santé. L'AJEEA a donc l'ambition de combler cette lacune en
+      coordonnant des campagnes de sensibilisation et de prévention auprès des
+      enfants, des adolescents et de leurs parents.
+
+
+      Parmi ces campagnes, certaines seront centrées autour de la santé. On
+      retrouvera ainsi de l'éducation sexuelle avec notamment la prévention
+      contre le SIDA, mais aussi de la prévention contre le paludisme, la
+      tuberculose ou encore une sensibilisation à la vaccination.
+
+
+      D'autre part, il y aura aussi des sensibilisations autour de l'hygiène de
+      vie et de la nutrition, et ce dès 3 ans !
 ---
 ### Partenariat
 
