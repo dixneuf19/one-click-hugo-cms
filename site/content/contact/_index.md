@@ -18,8 +18,8 @@ contact_entries:
 ---
 Nous avons besoin de votre aide ! 
 
-Envie d'apporter ton aide aux enfants de Ouagadougou et de soutenir notre action ? Alors deviens _parrain _ou _marraine _de l'AJEEA ! Contacte-nous pour que nous trouvions ensemble le type de parrainage qui te convient le mieux.
+Envie d'apporter ton aide aux enfants de Ouagadougou et de soutenir notre action ? Alors deviens _parrain_ ou marraine de l'AJEEA ! Contacte-nous pour que nous trouvions ensemble le type de parrainage qui te convient le mieux.
 
-Envie de nous rejoindre sur place ? De rencontrer les enfants et de faire partie de leur quotidien ? Nous accueillons aussi des _volontaires _pour prendre part à notre action ! Contacte-nous pour discuter de l'action que tu souhaiterais entreprendre à nos côté et des autres modalités.
+Envie de nous rejoindre sur place ? De rencontrer les enfants et de faire partie de leur quotidien ? Nous accueillons aussi des _volontaires_ pour prendre part à notre action ! Contacte-nous pour discuter de l'action que tu souhaiterais entreprendre à nos côté et des autres modalités.
 
 Et surtout, n'hésite pas à nous contacter pour toute autre question !
