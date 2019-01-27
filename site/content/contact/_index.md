@@ -1,13 +1,25 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: /img/logo.svg
 contact_entries:
   - heading: Localisation
-    text: "Bonheurville, Ouagadougou, Burkina Faso"
+    text: |-
+      Bonheurville
+      Secteur 31
+      Arrondissement 7
+      Ouagadougou
+      BURKINA FASO
   - heading: Horaires
-    text: "Lundi - Vendredi : 7h-13h / 15h-17h"
-
+    text: 'Lundi - Vendredi : 7h-12h'
+  - heading: Coordonnées
+    text: |-
+      Email : ajeea.enfants@gmail.com
+      Tél. : +226 51 19 28 06
 ---
-Nous avons besoin de votre aide, que celà soit sous la forme d'un *volontariat* ou d'un *partenariat*.
+Nous avons besoin de votre aide ! 
 
-N'hésitez pas à nous contacter pour toutes questions !
+Envie d'apporter ton aide aux enfants de Ouagadougou et de soutenir notre action ? Alors deviens _parrain _ou _marraine _de l'AJEEA ! Contacte-nous pour que nous trouvions ensemble le type de parrainage qui te convient le mieux.
+
+Envie de nous rejoindre sur place ? De rencontrer les enfants et de faire partie de leur quotidien ? Nous accueillons aussi des _volontaires _pour prendre part à notre action ! Contacte-nous pour discuter de l'action que tu souhaiterais entreprendre à nos côté et des autres modalités.
+
+Et surtout, n'hésite pas à nous contacter pour toute autre question !
