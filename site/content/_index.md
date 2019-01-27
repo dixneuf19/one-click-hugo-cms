@@ -28,19 +28,39 @@ projets:
     heading: Des projets
     imageUrl: img/illustrations-coffee.svg
     text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+      Les projets menés par l'AJEEA sont divers et variés, tant dans leur nature
+      que dans le public touché.
+
+
+      Les plus jeunes enfants sont accueillis tous les matins, du lundi au
+      vendredi, dans le centre. Encadrés par deux tanties, ils apprennent les
+      rudiment de la lecture, de l'écriture et des mathématiques. De nombreux
+      jeux permettent de développer leur créativité, leur imagination, leurs
+      facultés motrices et leur sens artistique.
+
+
+      Pour les plus grands, l'AJEEA est aussi le lien entre différents parrains
+      venant du monde entier, le gouvernement et un certains nombre d'écoles et
+      de lycées ouagalais. Plusieurs fois par an, elle distribue ainsi
+      fournitures scolaires ou denrées alimentaires aux jeunes écoliers et
+      lycéens de la capitale.
+
+
+      L'association est encore jeune et en plein développement : plusieurs
+      nouveaux projets sont d'ores et déjà en cours de réflexion.
   - buttonText: Comment nous aider
     heading: Nous aider
     imageUrl: /img/illustrations-coffee-gear.svg
     text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+
+      Notre association t'intéresse ? Tu aimerais en savoir plus ? L'AJEEA
+      recherche de nouveaux parrains, au Burkina Faso ou à l'étranger, pour
+      développer ensemble de nouvelles actions.
+
+
+      Envie de nous rejoindre au centre ? De nous aider sur le terrain ? L'AJEEA
+      accueille régulièrement des volontaires pour apporter de nouvelles choses
+      aux enfants et adolescents !
 full_image: /img/products-grid2.jpg
 ---
 
