@@ -56,6 +56,6 @@ projets:
       Envie de nous rejoindre au centre ? De nous aider sur le terrain ? L'AJEEA
       accueille régulièrement des volontaires pour apporter de nouvelles choses
       aux enfants et adolescents !
-full_image: /img/Photo-random-(4).jpg
+full_image: /img/Photo-random-4.jpg
 ---
 
