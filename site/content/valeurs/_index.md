@@ -14,14 +14,13 @@ presentation:
         meilleur pour les nouvelles générations.
 objectifs:
   blurbs:
-    - image: /img/illustrations-coffee.svg
-      text: |
-        Aider et protèger les enfants les adolescents défavorisés
-    - image: /img/illustrations-coffee-gear.svg
+    - image: /img/basketball.svg
+      text: Aider et protéger les enfants et adolescents défavorisés
+    - image: /img/girl.svg
       text: Renforcer les capacités socio-économiques des femmes en difficulté
-    - image: /img/illustrations-tutorials.svg
+    - image: /img/succes-team.svg
       text: Mobiliser les communautés pour un développement participatif et durable
-    - image: /img/illustrations-meeting-space.svg
+    - image: /img/handshake.svg
       text: Contribuer à l’amélioration de la santé des populations
   description: >-
     L'AJEEA apporte soutien, éducation et protection aux enfants et adolescents
