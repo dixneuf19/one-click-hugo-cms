@@ -93,4 +93,10 @@ projets:
       A termes, l'association envisage également de s'ancrer à l'international
       avec un système de correspondants dans d'autres régions du monde.
 ---
-### ICI FAUDRAIT METTRE LE BOUTON "COMMENT NOUS AIDER" DE LA PAGE D'ACCUEIL
+### Comment nous aider ?
+
+Nous avons besoin de votre aide ! 
+
+Envie d'apporter ton aide aux enfants de Ouagadougou et de soutenir notre action ? Alors deviens _parrain_ ou marraine de l'AJEEA ! Contacte-nous pour que nous trouvions ensemble le type de parrainage qui te convient le mieux.
+
+Envie de nous rejoindre sur place ? De rencontrer les enfants et de faire partie de leur quotidien ? Nous accueillons aussi des _volontaires_ pour prendre part à notre action ! Contacte-nous pour discuter de l'action que tu souhaiterais entreprendre à nos côtés et des autres modalités.
