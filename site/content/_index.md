@@ -26,7 +26,7 @@ intro:
 projets:
   - buttonText: Nos projets
     heading: Des projets
-    imageUrl: img/illustrations-coffee.svg
+    imageUrl: /img/photo_2018-12-24_11-31-08.jpg
     text: >-
       Les projets menés par l'AJEEA sont divers et variés, tant dans leur nature
       que dans le public touché.
@@ -56,6 +56,6 @@ projets:
       Envie de nous rejoindre au centre ? De nous aider sur le terrain ? L'AJEEA
       accueille régulièrement des volontaires pour apporter de nouvelles choses
       aux enfants et adolescents !
-full_image: /img/products-grid2.jpg
+full_image: /img/products-full-width.jpg
 ---
 
