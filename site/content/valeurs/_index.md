@@ -1,7 +1,7 @@
 ---
 title: L'association
 subtitle: Comment fonctionne l'AJEEA
-image: /img/products-jumbotron.jpg
+image: /img/Photo-de-tableau.jpg
 presentation:
   heading: Présentation de l'AJEEA
   paragraphs:
@@ -30,14 +30,14 @@ objectifs:
     moniteurs) œuvrent pour leur bien-être et leur bon développement.
   heading: Nos objectifs
 image1:
-  alt: A close-up of a paper filter filled with ground coffee
-  image: /img/products-grid3.jpg
+  alt: Some child
+  image: /img/Photo-floue-random.jpg
 image2:
-  alt: A green cup of a coffee on a wooden table
-  image: /img/products-grid2.jpg
+  alt: Again a child
+  image: /img/Photo-principale.jpg
 image3:
-  alt: Coffee beans
-  image: /img/products-grid1.jpg
+  alt: Still the same thing
+  image: /img/Nous-aider.jpg
 testimonials:
   - author: 'Norbert ABEM, président de l’association AJEEA'
     quote: >-

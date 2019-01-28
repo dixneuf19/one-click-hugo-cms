@@ -1,10 +1,10 @@
 ---
 title: Nos projets
 subtitle: Comment nous aider à développer nos projets
-image: /img/about-jumbotron.jpg
+image: /img/Photo-nos-projets.jpg
 projets:
   - heading: Accompagnement préscolaire
-    imageUrl: /img/about-shade-grown.jpg
+    imageUrl: /img/Photo-maternelle.jpg
     text: >-
       Tous les matins du lundi au vendredi, des enfants de Bonheurville sont
       accueillis aux centre par deux monitrices. En petits groupes, ils vont
@@ -20,7 +20,7 @@ projets:
       permet aux familles les plus modestes de donner à leurs enfants une réelle
       chance de réussite scolaire.
   - heading: Un partenaire du gouvernement
-    imageUrl: /img/about-single-origin.jpg
+    imageUrl: /img/random-cat.jpg
     text: >-
       L'AJEEA est une association reconnue et soutenue par le Ministère de
       l'Education Nationale et de l'Alphabétisation (MENA) qui compte donc sur
@@ -38,7 +38,7 @@ projets:
       de 50 kg de riz à destination des écoles, dont la distribution a été prise
       en charge par l'AJEEA.
   - heading: Une nouvelle bibliothèque
-    imageUrl: /img/products-jumbotron.jpg
+    imageUrl: /img/random-cat.jpg
     text: >-
       Projet de longue date, la création d'une bibliothèque à Bonheurville est
       un projet ambitieux et impactant, toujours en cours de développement.
@@ -55,7 +55,7 @@ projets:
       cadre culturel idéal pour le soutien scolaire, un amas de ressources
       pédagogiques pour l'élève et le professeur.
   - heading: Sensibilisation et prévention
-    imageUrl: /img/about-direct-sourcing.jpg
+    imageUrl: /img/random-cat.jpg
     text: >-
       Les jeunes et leurs parents manquent parfois d'informations concernant les
       problèmes de santé. L'AJEEA a donc l'ambition de combler cette lacune en
@@ -72,7 +72,7 @@ projets:
       D'autre part, il y aura aussi des sensibilisations autour de l'hygiène de
       vie et de la nutrition, et ce dès 3 ans !
   - heading: Vers d'autres horizons
-    imageUrl: /img/blog-flavor_wheel.jpg
+    imageUrl: /img/random-cat.jpg
     text: >-
       L'AJEEA est basée à Bonheurville, en banlieue de Ouagadougou, depuis 2013.
       Aujourd'hui, l'action de l'association se développe et mûrit, si bien
