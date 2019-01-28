@@ -3,7 +3,7 @@ title: AJEEA
 subtitle: >-
   Association de Jeunesse pour l’Épanouissement des Enfants et Adolescents,
   Ouagadougou - Burkina Faso
-image: /img/home-jumbotron.jpg
+image: /img/Photo-principale.jpg
 blurb:
   heading: Qu'est-ce que l'AJEEA ?
   text: >-
@@ -26,7 +26,7 @@ intro:
 projets:
   - buttonText: Nos projets
     heading: Des projets
-    imageUrl: /img/photo_2018-12-24_11-31-08.jpg
+    imageUrl: /img/Photo-Projets.jpg
     text: >-
       Les projets menés par l'AJEEA sont divers et variés, tant dans leur nature
       que dans le public touché.
@@ -45,7 +45,7 @@ projets:
       nouveaux projets sont d'ores et déjà en cours de réflexion.
   - buttonText: Comment nous aider
     heading: Nous aider
-    imageUrl: /img/blog-index.jpg
+    imageUrl: /img/Nous-aider.jpg
     text: >-
 
       Notre association t'intéresse ? Tu aimerais en savoir plus ? L'AJEEA
@@ -56,6 +56,6 @@ projets:
       Envie de nous rejoindre au centre ? De nous aider sur le terrain ? L'AJEEA
       accueille régulièrement des volontaires pour apporter de nouvelles choses
       aux enfants et adolescents !
-full_image: /img/products-full-width.jpg
+full_image: /img/Photo-random-(4).jpg
 ---
 
