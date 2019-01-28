@@ -6,6 +6,6 @@ description: >-
   Livia, elle est Française, et elle va passer deux mois et demi avec les
   enfants. Elle va ainsi pouvoir découvrir la culture locale et partager la
   sienne avec les enfants.
-image: /img/blog-chemex.jpg
+image: /img/Photo-article-Livia.jpg
 ---
 \[A ECRIRE AVEC ELLE]
