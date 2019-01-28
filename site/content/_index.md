@@ -45,7 +45,7 @@ projets:
       nouveaux projets sont d'ores et déjà en cours de réflexion.
   - buttonText: Comment nous aider
     heading: Nous aider
-    imageUrl: /img/illustrations-coffee-gear.svg
+    imageUrl: /img/blog-index.jpg
     text: >-
 
       Notre association t'intéresse ? Tu aimerais en savoir plus ? L'AJEEA
