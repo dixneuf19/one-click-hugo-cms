@@ -6,7 +6,7 @@ description: >+
   l'occasion de partager un moment en compagnie des enfants et des partenaires
   de l'AJEEA, des élèves de l'école et de membres de l'administration.
 
-image: /img/blog-chemex.jpg
+image: /img/random-cat.jpg
 ---
 La journée démarre par un concert d'un groupe musical français qui va rester pendant un mois et demi avec l'AJEEA (on en reparlera dans un prochain article).
 

@@ -38,7 +38,7 @@ projets:
       de 50 kg de riz à destination des écoles, dont la distribution a été prise
       en charge par l'AJEEA.
   - heading: Une nouvelle bibliothèque
-    imageUrl: /img/random-cat.jpg
+    imageUrl: /img/books-bookstore-book-reading-159711.jpg
     text: >-
       Projet de longue date, la création d'une bibliothèque à Bonheurville est
       un projet ambitieux et impactant, toujours en cours de développement.
@@ -55,7 +55,7 @@ projets:
       cadre culturel idéal pour le soutien scolaire, un amas de ressources
       pédagogiques pour l'élève et le professeur.
   - heading: Sensibilisation et prévention
-    imageUrl: /img/random-cat.jpg
+    imageUrl: /img/Photo-de-tableau.jpg
     text: >-
       Les jeunes et leurs parents manquent parfois d'informations concernant les
       problèmes de santé. L'AJEEA a donc l'ambition de combler cette lacune en
@@ -72,7 +72,7 @@ projets:
       D'autre part, il y aura aussi des sensibilisations autour de l'hygiène de
       vie et de la nutrition, et ce dès 3 ans !
   - heading: Vers d'autres horizons
-    imageUrl: /img/random-cat.jpg
+    imageUrl: /img/burkina-faso-1.jpg
     text: >-
       L'AJEEA est basée à Bonheurville, en banlieue de Ouagadougou, depuis 2013.
       Aujourd'hui, l'action de l'association se développe et mûrit, si bien
