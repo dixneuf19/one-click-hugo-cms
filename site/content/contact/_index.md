@@ -14,7 +14,7 @@ contact_entries:
       Email : ajeea.enfants@gmail.com
       Tél. : +226 51 19 28 06
 ---
-Nous avons besoin de votre aide ! 
+Nous avons besoin de votre aide !
 
 Envie d'apporter ton aide aux enfants de Ouagadougou et de soutenir notre action ? Alors deviens _parrain_ ou marraine de l'AJEEA ! Contacte-nous pour que nous trouvions ensemble le type de parrainage qui te convient le mieux.
 
