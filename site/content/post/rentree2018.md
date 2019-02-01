@@ -5,7 +5,7 @@ description: >-
   Le mois de septembre est arrivé, et avec lui commence une nouvelle année
   scolaire pour les enfants de l'AJEEA. Aujourd'hui, certains ont retrouvé leurs
   "tanties" quand d'autres ont vécu leur toute première rentrée !
-image: /img/blog-chemex.jpg
+image: /img/random-cat.jpg
 ---
 Ce matin, le soleil était encore bas dans le ciel quand les premiers enfants, cartable sur le dos, ont franchi le portail du centre.
 
