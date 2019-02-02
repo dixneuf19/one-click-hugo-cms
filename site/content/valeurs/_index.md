@@ -34,7 +34,7 @@ image1:
   image: /img/Photo-floue-random.jpg
 image2:
   alt: Again a child
-  image: /img/Photo-principale.jpg
+  image: /img/norbert.jpg
 image3:
   alt: Still the same thing
   image: /img/Nous-aider.jpg

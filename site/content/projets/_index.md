@@ -20,7 +20,7 @@ projets:
       permet aux familles les plus modestes de donner à leurs enfants une réelle
       chance de réussite scolaire.
   - heading: Un partenaire du gouvernement
-    imageUrl: /img/random-cat.jpg
+    imageUrl: /img/riz.jpg
     text: >-
       L'AJEEA est une association reconnue et soutenue par le Ministère de
       l'Education Nationale et de l'Alphabétisation (MENA) qui compte donc sur
@@ -95,7 +95,7 @@ projets:
 ---
 ### Comment nous aider ?
 
-Nous avons besoin de votre aide ! 
+Nous avons besoin de votre aide !
 
 Envie d'apporter ton aide aux enfants de Ouagadougou et de soutenir notre action ? Alors deviens _parrain_ ou marraine de l'AJEEA ! Contacte-nous pour que nous trouvions ensemble le type de parrainage qui te convient le mieux.
 
