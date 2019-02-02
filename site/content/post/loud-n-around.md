@@ -5,7 +5,7 @@ description: >-
   Aujourd'hui pour la première fois, les enfants de l'AJEEA ont pu participer à
   un atelier organisé par de nouveaux moniteurs. Il s'agit de onze musicien.ne.s
   français venus 6 semaines au Burkina Faso pour travailler avec l'AJEEA. 
-image: /img/random-cat.jpg
+image: /img/lna.jpg
 ---
 Ils jouent de la trompette, du trombone, du saxophone ou encore du soubassophone, autant d'instruments insolites que les enfants auront pu découvrir et essayer.
 
