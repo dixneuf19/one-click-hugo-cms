@@ -6,9 +6,9 @@ description: >+
   l'occasion de partager un moment en compagnie des enfants et des partenaires
   de l'AJEEA, des élèves de l'école et de membres de l'administration.
 
-image: /img/random-cat.jpg
+image: /img/arbre-de-noel.jpg
 ---
-La journée démarre par un concert d'un groupe musical français qui va rester pendant un mois et demi avec l'AJEEA (on en reparlera dans un prochain article).
+La journée démarre par un concert d'un groupe musical français ([Loud'n Around](http://www.loudnaround.org)) qui va rester pendant un mois et demi avec l'AJEEA (on en reparlera dans un prochain article).
 
 Ensuite se sont enchaînés les discours du Directeur de l'école de Belleville, du Président de l'AJEEA, d'un Responsable de la Direction Provinciale de l'Education Nationale et du Président du groupe musical français. Tous ont fait part de leur enthousiasme à l'idée de travailler conjointement pour l'épanouissement et le développement cognitif des jeunes à leur charge.
 
