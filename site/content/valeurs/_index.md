@@ -52,4 +52,4 @@ Les projets menés par l'AJEEA sont divers et variés, tant dans leur nature que
 
 ### Une équipe dévouée
 
-Le Président et Fondateur de l'association est Norbert ABEM. L'association reçoit également le soutien du Ministère de l'Education Nationale et de l'Alphabétisation, notamment via Elisabeth SAWADOGO, Inspectrice et Cheffe de programme. L'AJEEA compte également sur le soutien de nombreux parrains tels que **\[A COMPLETER]** et bien sûr, sur les monitrices, qui chaque jour font grandir et sourire les enfants.
+Le Président et Fondateur de l'association est Norbert ABEM. L'association reçoit également le soutien du Ministère de l'Education Nationale et de l'Alphabétisation, notamment via Elisabeth SAWADOGO, Inspectrice et Cheffe de programme. L'AJEEA compte également sur le soutien de nombreux parrains tels que la _Sonagess_, la _CNSS_, la _Lonab_ et bien sûr, sur les monitrices, qui chaque jour font grandir et sourire les enfants.
