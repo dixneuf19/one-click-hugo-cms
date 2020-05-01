@@ -1,5 +1,5 @@
 ---
-title: Fête de l'Arbre de Noël
+title: Distribution de dons pendant le confinement
 date: 2020-04-19T08:00:00.000Z
 description: >+
   Alors que les écoles et marchés sont actuellement fermés pour cause de confinement, les parents de Ouagadougou ont du mal à joindre les deux bouts
