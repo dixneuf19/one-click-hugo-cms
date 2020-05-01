@@ -14,4 +14,4 @@ permettent aux enfants de 0 à 6 ans de mieux supporter cette crise qui affecte 
 
 Depuis le 30 mars, plus de **140 enfants** ont reçu de tel kit. L'AJEEA continue également de fonctionner en donnant des cours aux plus petits afin d'essayer d'offrir un avenir meilleur aux enfants du Burkina Faso.
 
-![Remise d'un kit nourisson](/img/kit-nourrisson-2.jpg)
+![Remise d'un kit nourisson](/img/kit-nourisson-2.jpg)
